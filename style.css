@@ -1,0 +1,43 @@
+
+.firstimg{
+    object-fit: cover;
+    width:100%;
+    height:500px;
+}
+.profphoto{
+    height:200px;
+    width: 200px;
+    border-radius: 1000%;
+    margin-top: 150px;
+    align-self: center;
+    
+}
+.container{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+
+}
+h1{
+    color:#213448;
+    align-self: center;
+}
+.blue{
+    color:#213448;
+}
+
+h4{
+    width: 575px;
+}
+.projects{
+    display:flex;
+    justify-content: center;
+}
+.cards{
+    display: flex;
+    gap: 50px;
+}
+.btn-custom-btn{
+    color: #EAE0CF;
+}
